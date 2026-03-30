@@ -57,8 +57,7 @@ User Input → Knowledge Storage → Rule Matching → Backtracking → Explanat
 ======================
 ## HOW TO RUN THE PROJECT:
 1. Install SWI-Prolog (Download from: https://www.swi-prolog.org/)
-2. Clone the Repository
-3. Open SWI-Prolog & Navigate to the project folder:
+3. Open SWI-Prolog & Navigate to the project folder
 4. Load the File
 5. Run the System
 6. Then enter your details when prompted.
@@ -69,7 +68,7 @@ The system displays:
 1. Eligible Welfare Schemes.
 2. Explanation for each scheme
 3. Priority classification.
-(SCREENSHOTS OF OUTPUTS HAVE BEEN ATTACHED FOR REFERENCES)
+(SCREENSHOTS OF OUTPUTS HAVE BEEN ATTACHED FOR REFERENCE)
 
 =======================
 ## CONCEPTS APPLIED FROM COURSE SYLLABUS:
